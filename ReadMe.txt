@@ -1,4 +1,47 @@
 ================================================================================
+Readme.txt
+==========
+
+This is a simple file HEXadecimal viewer. You can drag and drop any file
+into the window and see its contents and it will display its contents in
+the manner of:
+
+00000000: 2f 2f 20 66 69 6c 65 48 - 65 78 61 2e 63 70 70 20  [ // fileH|exa.cpp  ]
+00000010: 3a 20 44 65 66 69 6e 65 - 73 20 74 68 65 20 63 6c  [ : Define|s the cl ]
+00000020: 61 73 73 20 62 65 68 61 - 76 69 6f 72 73 20 66 6f  [ ass beha|viors fo ]
+00000030: 72 20 74 68 65 20 61 70 - 70 6c 69 63 61 74 69 6f  [ r the ap|plicatio ]
+00000040: 6e 2e 0d 0a 2f 2f 0d 0a - 0d 0a 23 69 6e 63 6c 75  [ n...//..|..#inclu ]
+00000050: 64 65 20 22 73 74 64 61 - 66 78 2e 68 22 0d 0a 23  [ de "stda|fx.h"..# ]
+00000060: 69 6e 63 6c 75 64 65 20 - 22 66 69 6c 65 48 65 78  [ include |"fileHex ]
+00000070: 61 2e 68 22 0d 0a 23 69 - 6e 63 6c 75 64 65 20 22  [ a.h"..#i|nclude " ]
+
+
+This project can be dropped into MS Visual-Studio 2008.
+
+
+Implements Concepts:
+
+- simple file Drag and drop
+- simple edit-box control in main window
+- simple vertical scroll bar
+- simple menu function
+- simple Document storage
+- simple memory heap-allocation
+
+**** I wrote this SIMPLE application in 1998, and resurected it for MSVS2008.
+
+================================================================================
+
+
+
+
+
+
+
+
+
+
+================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : fileHexa Project Overview
 ===============================================================================
 
